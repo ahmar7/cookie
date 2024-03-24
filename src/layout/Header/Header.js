@@ -98,10 +98,10 @@ const Header = () => {
               Cookie3 platforms
             </div>
             <div data-state="closed">
-              <a target="_blank" href="https://app.cookie3.co">
+              <a target="_blank" rel="noreferrer" href="https://app.cookie3.co">
                 <div className="rounded-lg px-2 text-base leading-none text-white hover:bg-background-dimmed">
                   <img
-                    alt
+                    alt="image"
                     fetchpriority="high"
                     width="92.4"
                     height={24}
@@ -116,7 +116,7 @@ const Header = () => {
             <div data-state="closed">
               <div className="rounded-lg px-2 text-base leading-none text-white hover:bg-background-dimmed opacity-30">
                 <img
-                  alt
+                  alt="image"
                   fetchpriority="high"
                   width="92.4"
                   height={24}
@@ -130,7 +130,7 @@ const Header = () => {
             <div data-state="closed">
               <div className="rounded-lg px-2 text-base leading-none text-white hover:bg-background-dimmed">
                 <img
-                  alt
+                  alt="image"
                   fetchpriority="high"
                   width={69}
                   height={24}

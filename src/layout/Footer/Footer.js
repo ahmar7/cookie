@@ -10,7 +10,11 @@ const Footer = () => {
             <p className="mb-6 text-sm text-neutral-600">SOLUTIONS</p>
             <ul className="space-y-4 font-medium text-white">
               <li>
-                <a href="https://app.cookie3.co" target="_blank">
+                <a
+                  href="https://app.cookie3.co"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Cookie3 Analytics
                 </a>
               </li>
@@ -22,27 +26,35 @@ const Footer = () => {
             <p className="mb-6 text-sm text-neutral-600">RESOURCES</p>
             <ul className="space-y-4 font-medium text-white">
               <li>
-                <a href="https://docs.cookie3.co" target="_blank">
+                <a
+                  href="https://docs.cookie3.co"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Documentation
                 </a>
               </li>
               <li>
-                <a href="https://app.cookie3.co/plans" target="_blank">
+                <a
+                  href="https://app.cookie3.co/plans"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Pricing
                 </a>
               </li>
               <li>
-                <a href="/brand" target="_blank">
+                <a href="/brand" target="_blank" rel="noreferrer">
                   Brand kit
                 </a>
               </li>
               <li>
-                <a href="/contact" target="_blank">
+                <a href="/contact" target="_blank" rel="noreferrer">
                   Contact
                 </a>
               </li>
               <li>
-                <a href="/blog" target="_blank">
+                <a href="/blog" target="_blank" rel="noreferrer">
                   Blog
                 </a>
               </li>
@@ -51,7 +63,7 @@ const Footer = () => {
         </div>
         <div className="mt-16 flex flex-col items-center justify-between gap-8 lg:flex-row">
           <img
-            alt
+            alt="image"
             loading="lazy"
             width={180}
             height={40}
@@ -153,11 +165,11 @@ const Footer = () => {
         <div className="mt-8 text-center text-xs text-neutral-600 lg:text-left">
           Copyright © 2024 Cookie3. All Rights Reserved.{/* */}{" "}
           <br className="lg:hidden" />{" "}
-          <a href="/privacy" target="_blank">
+          <a href="/privacy" target="_blank" rel="noreferrer">
             Privacy policy
           </a>{" "}
           {/* */}|{/* */}{" "}
-          <a href="/terms" target="_blank">
+          <a href="/terms" target="_blank" rel="noreferrer">
             Terms of service
           </a>
         </div>

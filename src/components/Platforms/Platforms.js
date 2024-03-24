@@ -42,7 +42,7 @@ const Platforms = () => {
                     <div className="flex items-center justify-between gap-8 lg:block">
                       <div className="relative h-[40px] w-[200px]">
                         <img
-                          alt="Cookie3 Affiliate"
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -61,7 +61,11 @@ const Platforms = () => {
                           src={analytics_full_white}
                         />
                       </div>
-                      <a href="https://app.cookie3.co" target="_blank">
+                      <a
+                        href="https://app.cookie3.co"
+                        rel="noreferrer"
+                        target="_blank"
+                      >
                         <button className="items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-10 px-4 py-2 block w-full bg-black text-white hover:bg-black/80 lg:hidden">
                           Get started
                         </button>
@@ -82,7 +86,11 @@ const Platforms = () => {
                       users. Get unique insights into on-chain conversions and
                       user behavior.
                     </p>
-                    <a href="https://app.cookie3.co" target="_blank">
+                    <a
+                      href="https://app.cookie3.co"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
                       <button className="items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-12 hidden w-full max-w-[365px] bg-black text-white hover:bg-black/80 lg:block">
                         Get started with analytics
                       </button>
@@ -128,6 +136,7 @@ const Platforms = () => {
                           <a
                             href="https://app.cookie3.co"
                             target="_blank"
+                            rel="noreferrer"
                             className="lg:ml-auto"
                           >
                             <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border bg-white hover:bg-neutral-100 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-6 w-full border-aquamarine !bg-white/0 hover:!bg-aquamarine/20 hover:text-white hover:shadow-aquamarine/80 lg:ml-auto lg:mt-1 lg:w-auto">
@@ -138,7 +147,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -156,7 +165,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -196,6 +205,7 @@ const Platforms = () => {
                           <a
                             href="https://app.cookie3.co"
                             target="_blank"
+                            rel="noreferrer"
                             className="lg:ml-auto"
                           >
                             <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border bg-white hover:bg-neutral-100 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-6 w-full border-aquamarine !bg-white/0 hover:!bg-aquamarine/20 hover:text-white hover:shadow-aquamarine/80 lg:ml-auto lg:mt-1 lg:w-auto">
@@ -206,7 +216,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -230,7 +240,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -271,6 +281,7 @@ const Platforms = () => {
                           <a
                             href="https://app.cookie3.co"
                             target="_blank"
+                            rel="noreferrer"
                             className="lg:ml-auto"
                           >
                             <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border bg-white hover:bg-neutral-100 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-6 w-full border-aquamarine !bg-white/0 hover:!bg-aquamarine/20 hover:text-white hover:shadow-aquamarine/80 lg:ml-auto lg:mt-1 lg:w-auto">
@@ -281,7 +292,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -306,7 +317,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -353,6 +364,7 @@ const Platforms = () => {
                           <a
                             href="https://app.cookie3.co"
                             target="_blank"
+                            rel="noreferrer"
                             className="lg:ml-auto"
                           >
                             <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border bg-white hover:bg-neutral-100 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-6 w-full border-aquamarine !bg-white/0 hover:!bg-aquamarine/20 hover:text-white hover:shadow-aquamarine/80 lg:ml-auto lg:mt-1 lg:w-auto">
@@ -363,7 +375,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -387,7 +399,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -431,6 +443,7 @@ const Platforms = () => {
                           <a
                             href="https://app.cookie3.co"
                             target="_blank"
+                            rel="noreferrer"
                             className="lg:ml-auto"
                           >
                             <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border bg-white hover:bg-neutral-100 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-6 w-full border-aquamarine !bg-white/0 hover:!bg-aquamarine/20 hover:text-white hover:shadow-aquamarine/80 lg:ml-auto lg:mt-1 lg:w-auto">
@@ -441,7 +454,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -465,7 +478,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -499,7 +512,7 @@ const Platforms = () => {
                     <div className="flex items-center justify-between gap-8 lg:block">
                       <div className="relative h-[40px] w-[200px]">
                         <img
-                          alt="Cookie3 Affiliate"
+                          alt="image"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -621,7 +634,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -639,7 +652,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -657,7 +670,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -675,7 +688,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -693,7 +706,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -711,7 +724,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -729,7 +742,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -747,7 +760,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -765,7 +778,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt
+                                  alt="image"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -796,7 +809,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -814,7 +827,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -832,7 +845,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -850,7 +863,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -868,7 +881,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -886,7 +899,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -904,7 +917,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -922,7 +935,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -940,7 +953,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt
+                                alt="image"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -1057,7 +1070,7 @@ const Platforms = () => {
                   <div className="flex h-full flex-col">
                     <div className="h-full">
                       <img
-                        alt="Cookie3 Affiliate"
+                        alt="image"
                         loading="lazy"
                         width={160}
                         height={50}
@@ -1076,7 +1089,11 @@ const Platforms = () => {
                         and application performance.
                       </p>
                     </div>
-                    <a href="https://app.cookie3.co" target="_blank">
+                    <a
+                      href="https://app.cookie3.co"
+                      rel="noreferrer"
+                      target="_blank"
+                    >
                       <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-auto w-full max-w-[365px] bg-aquamarine text-white hover:bg-aquamarine/80">
                         Get started
                       </button>
@@ -1090,7 +1107,7 @@ const Platforms = () => {
                   <div className="flex h-full flex-col">
                     <div className="h-full">
                       <img
-                        alt="Cookie3 Affiliate"
+                        alt="image"
                         loading="lazy"
                         width={160}
                         height={50}
@@ -1120,7 +1137,7 @@ const Platforms = () => {
                   <div className="flex h-full flex-col">
                     <div className="h-full">
                       <img
-                        alt="Cookie3 Affiliate"
+                        alt="image"
                         loading="lazy"
                         width={160}
                         height={50}
@@ -1157,7 +1174,7 @@ const Platforms = () => {
                 >
                   <div className="h-full">
                     <img
-                      alt="Cookie3 Affiliate"
+                      alt="image"
                       loading="lazy"
                       width={160}
                       height={50}
@@ -1176,7 +1193,11 @@ const Platforms = () => {
                       application performance.
                     </p>
                   </div>
-                  <a href="https://app.cookie3.co" target="_blank">
+                  <a
+                    href="https://app.cookie3.co"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
                     <button className="inline-flex items-center justify-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-14 rounded-lg px-6 text-lg [&>svg]:h-6 [&>svg]:w-6 mt-auto w-full max-w-[365px] bg-aquamarine text-white hover:bg-aquamarine/80">
                       Get started with analytics
                     </button>
@@ -1189,7 +1210,7 @@ const Platforms = () => {
                 >
                   <div className="h-full">
                     <img
-                      alt="Cookie3 Affiliate"
+                      alt="image"
                       loading="lazy"
                       width={160}
                       height={50}
@@ -1223,7 +1244,7 @@ const Platforms = () => {
                 >
                   <div className="h-full">
                     <img
-                      alt="Cookie3 Affiliate"
+                      alt="image"
                       loading="lazy"
                       width={160}
                       height={50}

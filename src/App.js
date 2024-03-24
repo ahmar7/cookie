@@ -5,12 +5,11 @@ import "./assets/css/styles.css";
 import "./assets/css/ande.css";
 import "./assets/css/cookie.css";
 import "./assets/css/static.css";
-
-import Router from "./config/Router";
+import Home from "./pages/Home";
 function App() {
   return (
     <div className="App">
-      <Router />
+      <Home />
     </div>
   );
 }

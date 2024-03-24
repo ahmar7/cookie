@@ -72,7 +72,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -93,7 +93,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -114,7 +114,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -135,7 +135,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -156,7 +156,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -177,7 +177,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -198,7 +198,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -219,7 +219,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}
@@ -240,7 +240,7 @@ const Ecosystem = () => {
         >
           <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border border-white/20 lg:h-[60px] lg:w-[160px]">
             <img
-              alt
+              alt="image"
               loading="lazy"
               width={80}
               height={30}

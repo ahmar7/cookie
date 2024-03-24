@@ -89,7 +89,11 @@ const Banner = () => {
                   Web3 and beyond.
                 </p>
                 <div className=" mt-4 flex items-center gap-2 px-2 lg:mt-8 lg:px-0">
-                  <a href="https://discord.gg/cookie3" target="_blank">
+                  <a
+                    href="https://discord.gg/cookie3"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
                     <button className="inline-flex items-center whitespace-nowrap font-medium ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-new-primary text-neutral-950 hover:bg-green-400 rounded-md slide-up-fade-in initial-opacity delay-3 h-[52px] w-auto justify-between px-3 text-base tracking-tight">
                       <div className="text-left">
                         <div>Join our community</div>
@@ -118,7 +122,7 @@ const Banner = () => {
               <div className=" mx-auto h-full w-full lg:hidden">
                 <img
                   id="chart-m"
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={50}
                   height={50}
@@ -130,7 +134,7 @@ const Banner = () => {
                 />
                 <img
                   id="user-m"
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -142,7 +146,7 @@ const Banner = () => {
                 />
                 <img
                   id="rocket-m"
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={70}
                   height={70}
@@ -154,7 +158,7 @@ const Banner = () => {
                 />
                 <img
                   id="check-m"
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -172,7 +176,7 @@ const Banner = () => {
                 >
                   <img
                     id="chart"
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={150}
                     height={150}
@@ -188,7 +192,7 @@ const Banner = () => {
                 >
                   <img
                     id="user"
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={120}
                     height={120}
@@ -204,7 +208,7 @@ const Banner = () => {
                 >
                   <img
                     id="rocket"
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={120}
                     height={120}
@@ -220,7 +224,7 @@ const Banner = () => {
                 >
                   <img
                     id="check"
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={140}
                     height={140}
@@ -235,7 +239,7 @@ const Banner = () => {
             <div className="absolute -top-24 left-1/2 -translate-x-1/2 lg:-top-32 lg:bottom-40 lg:block">
               <div className="hidden h-[1000px] w-[1000px] translate-y-32 items-start justify-center 3xl:flex">
                 <img
-                  alt
+                  alt="image"
                   fetchpriority="high"
                   width={800}
                   height={800}
@@ -247,7 +251,7 @@ const Banner = () => {
               </div>
               <div className="hidden h-[900px] w-[900px] translate-y-32 items-start justify-center lg:flex">
                 <img
-                  alt
+                  alt="image"
                   fetchpriority="high"
                   width={700}
                   height={700}
@@ -259,7 +263,7 @@ const Banner = () => {
               </div>
               <div className="h-[340px] w-[340px] overflow-visible lg:hidden">
                 <img
-                  alt
+                  alt="image"
                   fetchpriority="high"
                   width={340}
                   height={340}

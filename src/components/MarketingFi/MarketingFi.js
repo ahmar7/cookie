@@ -93,7 +93,7 @@ const MarketingFi = () => {
             </div>
             <div className=" relative z-10 mb-24 mt-8 h-[400px] w-full lg:hidden">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
@@ -112,7 +112,7 @@ const MarketingFi = () => {
             </div>
             <div className="relative z-10 mt-32 hidden aspect-video w-full lg:block">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
@@ -138,7 +138,7 @@ const MarketingFi = () => {
               }}
             >
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
@@ -215,7 +215,7 @@ const MarketingFi = () => {
             </div>
             <div className="absolute -right-0 -top-36 h-[50%] w-[200px] lg:-top-12 lg:left-0 lg:col-span-3 lg:-ml-4 lg:w-[300px]">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
@@ -236,7 +236,7 @@ const MarketingFi = () => {
             </div>
             <div className="absolute right-0 h-[50%] w-[120px] lg:-top-20 lg:left-[18%] lg:col-span-3 lg:-ml-4 lg:w-[300px]">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
@@ -258,7 +258,7 @@ const MarketingFi = () => {
             <div className="relative h-[200px] w-full  scale-110 lg:static lg:col-span-3 lg:h-[540px]">
               <div className="absolute h-full w-full lg:hidden">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
@@ -276,7 +276,7 @@ const MarketingFi = () => {
               </div>
               <div className="absolute hidden h-full w-full lg:col-span-3 lg:-ml-4 lg:block lg:h-[100%]">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   decoding="async"
                   data-nimg="fill"
@@ -428,7 +428,7 @@ const MarketingFi = () => {
             </div>
             <div className="absolute -right-[0px] -top-24 lg:hidden">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 width={140}
                 height={140}
@@ -440,7 +440,7 @@ const MarketingFi = () => {
             </div>
             <div className="absolute right-0 top-0 hidden -translate-y-1/2 lg:block 3xl:-right-[120px] 3xl:top-1/2">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 width={300}
                 height={300}
@@ -476,7 +476,7 @@ const MarketingFi = () => {
                   Lead investor
                 </div>
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -491,7 +491,7 @@ const MarketingFi = () => {
                   Accelerator
                 </div>
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -503,7 +503,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -515,7 +515,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -527,7 +527,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -539,7 +539,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -551,7 +551,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -563,7 +563,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -575,7 +575,7 @@ const MarketingFi = () => {
               </div>
               <div className="relative">
                 <img
-                  alt
+                  alt="image"
                   loading="lazy"
                   width={88}
                   height={30}
@@ -599,7 +599,7 @@ const MarketingFi = () => {
                     Lead investor
                   </div>
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -622,7 +622,7 @@ const MarketingFi = () => {
                     Accelerator
                   </div>
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -642,7 +642,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -662,7 +662,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -682,7 +682,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -704,7 +704,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -724,7 +724,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -744,7 +744,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -764,7 +764,7 @@ const MarketingFi = () => {
               >
                 <div className="relative flex h-[60px] w-[170px] items-center justify-center rounded-xl border border-white/20">
                   <img
-                    alt
+                    alt="image"
                     loading="lazy"
                     width={130}
                     height={50}
@@ -784,7 +784,7 @@ const MarketingFi = () => {
           <div className="mt-16  lg:mt-36">
             <div className="relative mt-16 hidden h-[500px] lg:block">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
@@ -805,7 +805,7 @@ const MarketingFi = () => {
             </div>
             <div className="relative h-[500px]  lg:hidden">
               <img
-                alt
+                alt="image"
                 loading="lazy"
                 decoding="async"
                 data-nimg="fill"
