@@ -1,0 +1,11 @@
+.card_card__G7LFS {
+  background-image: linear-gradient(#000, #000),
+    linear-gradient(calc(var(--rotation)), #333 0, #444 10%, transparent 20%);
+  transition: all 0.5s;
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  position: relative;
+  border: 1px solid transparent;
+  box-shadow: 0 0 0 1px hsla(0, 0%, 100%, 0.1),
+    0 1px 15px hsla(0, 0%, 100%, 0.1);
+}
