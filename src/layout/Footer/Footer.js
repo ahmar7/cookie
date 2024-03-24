@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
         <div className="mt-16 flex flex-col items-center justify-between gap-8 lg:flex-row">
           <img
-            alt="image"
+            alt="detail"
             loading="lazy"
             width={180}
             height={40}

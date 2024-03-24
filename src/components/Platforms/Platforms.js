@@ -42,7 +42,7 @@ const Platforms = () => {
                     <div className="flex items-center justify-between gap-8 lg:block">
                       <div className="relative h-[40px] w-[200px]">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -147,7 +147,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -165,7 +165,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -216,7 +216,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -240,7 +240,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -292,7 +292,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -317,7 +317,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -375,7 +375,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -399,7 +399,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -454,7 +454,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-4 h-[300px] w-full lg:hidden">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -478,7 +478,7 @@ const Platforms = () => {
                       </div>
                       <div className="relative mt-0 hidden h-[240px] w-full rounded-3xl px-12 lg:block lg:h-full">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -512,7 +512,7 @@ const Platforms = () => {
                     <div className="flex items-center justify-between gap-8 lg:block">
                       <div className="relative h-[40px] w-[200px]">
                         <img
-                          alt="image"
+                          alt="detail"
                           loading="lazy"
                           decoding="async"
                           data-nimg="fill"
@@ -634,7 +634,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -652,7 +652,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -670,7 +670,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -688,7 +688,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -706,7 +706,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -724,7 +724,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -742,7 +742,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -760,7 +760,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -778,7 +778,7 @@ const Platforms = () => {
                             >
                               <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                                 <img
-                                  alt="image"
+                                  alt="detail"
                                   loading="lazy"
                                   width={80}
                                   height={30}
@@ -809,7 +809,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -827,7 +827,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -845,7 +845,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -863,7 +863,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -881,7 +881,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -899,7 +899,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -917,7 +917,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -935,7 +935,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -953,7 +953,7 @@ const Platforms = () => {
                           >
                             <div className="flex h-[40px] w-[115px] items-center justify-center rounded-xl border-white/20 lg:h-[60px] lg:w-[160px]">
                               <img
-                                alt="image"
+                                alt="detail"
                                 loading="lazy"
                                 width={80}
                                 height={30}
@@ -1070,7 +1070,7 @@ const Platforms = () => {
                   <div className="flex h-full flex-col">
                     <div className="h-full">
                       <img
-                        alt="image"
+                        alt="detail"
                         loading="lazy"
                         width={160}
                         height={50}
@@ -1107,7 +1107,7 @@ const Platforms = () => {
                   <div className="flex h-full flex-col">
                     <div className="h-full">
                       <img
-                        alt="image"
+                        alt="detail"
                         loading="lazy"
                         width={160}
                         height={50}
@@ -1137,7 +1137,7 @@ const Platforms = () => {
                   <div className="flex h-full flex-col">
                     <div className="h-full">
                       <img
-                        alt="image"
+                        alt="detail"
                         loading="lazy"
                         width={160}
                         height={50}
@@ -1174,7 +1174,7 @@ const Platforms = () => {
                 >
                   <div className="h-full">
                     <img
-                      alt="image"
+                      alt="detail"
                       loading="lazy"
                       width={160}
                       height={50}
@@ -1210,7 +1210,7 @@ const Platforms = () => {
                 >
                   <div className="h-full">
                     <img
-                      alt="image"
+                      alt="detail"
                       loading="lazy"
                       width={160}
                       height={50}
@@ -1244,7 +1244,7 @@ const Platforms = () => {
                 >
                   <div className="h-full">
                     <img
-                      alt="image"
+                      alt="detail"
                       loading="lazy"
                       width={160}
                       height={50}

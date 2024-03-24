@@ -122,7 +122,7 @@ const Banner = () => {
               <div className=" mx-auto h-full w-full lg:hidden">
                 <img
                   id="chart-m"
-                  alt="image"
+                  alt="detail"
                   loading="lazy"
                   width={50}
                   height={50}
@@ -134,7 +134,7 @@ const Banner = () => {
                 />
                 <img
                   id="user-m"
-                  alt="image"
+                  alt="detail"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -146,7 +146,7 @@ const Banner = () => {
                 />
                 <img
                   id="rocket-m"
-                  alt="image"
+                  alt="detail"
                   loading="lazy"
                   width={70}
                   height={70}
@@ -158,7 +158,7 @@ const Banner = () => {
                 />
                 <img
                   id="check-m"
-                  alt="image"
+                  alt="detail"
                   loading="lazy"
                   width={60}
                   height={60}
@@ -176,7 +176,7 @@ const Banner = () => {
                 >
                   <img
                     id="chart"
-                    alt="image"
+                    alt="detail"
                     loading="lazy"
                     width={150}
                     height={150}
@@ -192,7 +192,7 @@ const Banner = () => {
                 >
                   <img
                     id="user"
-                    alt="image"
+                    alt="detail"
                     loading="lazy"
                     width={120}
                     height={120}
@@ -208,7 +208,7 @@ const Banner = () => {
                 >
                   <img
                     id="rocket"
-                    alt="image"
+                    alt="detail"
                     loading="lazy"
                     width={120}
                     height={120}
@@ -224,7 +224,7 @@ const Banner = () => {
                 >
                   <img
                     id="check"
-                    alt="image"
+                    alt="detail"
                     loading="lazy"
                     width={140}
                     height={140}
@@ -239,7 +239,7 @@ const Banner = () => {
             <div className="absolute -top-24 left-1/2 -translate-x-1/2 lg:-top-32 lg:bottom-40 lg:block">
               <div className="hidden h-[1000px] w-[1000px] translate-y-32 items-start justify-center 3xl:flex">
                 <img
-                  alt="image"
+                  alt="detail"
                   fetchpriority="high"
                   width={800}
                   height={800}
@@ -251,7 +251,7 @@ const Banner = () => {
               </div>
               <div className="hidden h-[900px] w-[900px] translate-y-32 items-start justify-center lg:flex">
                 <img
-                  alt="image"
+                  alt="detail"
                   fetchpriority="high"
                   width={700}
                   height={700}
@@ -263,7 +263,7 @@ const Banner = () => {
               </div>
               <div className="h-[340px] w-[340px] overflow-visible lg:hidden">
                 <img
-                  alt="image"
+                  alt="detail"
                   fetchpriority="high"
                   width={340}
                   height={340}
